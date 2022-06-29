@@ -1,0 +1,1 @@
+Change address field in src/constants/address.json to your contract address
